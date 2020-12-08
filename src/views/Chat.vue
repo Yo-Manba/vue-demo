@@ -22,10 +22,8 @@
             <div>Lambert修改了代码</div>
             <div>Lambert增加了新代码</div>
             <div>YY修改了代码</div>
-            
-
-
             <div>这是dev分支的修改</div>
+            <div>这是slide分支的修改</div>
 
             <van-cell is-link @click="showPopup">展示弹出层</van-cell>
 
