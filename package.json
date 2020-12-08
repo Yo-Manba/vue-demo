@@ -1,0 +1,38 @@
+{
+    "name": "frame",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "vue-cli-service serve --mode development",
+        "build": "vue-cli-service build --mode production"
+    },
+    "dependencies": {
+        "@better-scroll/core": "^2.0.0-beta.10",
+        "@better-scroll/pull-down": "^2.0.0-beta.10",
+        "@better-scroll/pull-up": "^2.0.0-beta.10",
+        "axios": "^0.19.2",
+        "core-js": "^3.6.5",
+        "vant": "^2.9.1",
+        "video.js": "^7.8.4",
+        "vue": "^2.6.11",
+        "vue-router": "^3.2.0",
+        "vuex": "^3.4.0"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^4.4.0",
+        "@vue/cli-plugin-router": "^4.4.0",
+        "@vue/cli-plugin-vuex": "^4.4.0",
+        "@vue/cli-service": "^4.4.0",
+        "babel-plugin-import": "^1.13.0",
+        "less": "^3.0.4",
+        "less-loader": "^5.0.0",
+        "stylus": "^0.54.7",
+        "stylus-loader": "^3.0.2",
+        "vue-template-compiler": "^2.6.11"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not dead"
+    ]
+}
